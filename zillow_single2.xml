@@ -1,0 +1,608 @@
+<hotPadsItems version="2.1">
+  <Company id="mynd">
+    <name>Mynd Property Management</name>
+    <website>https://www.mynd.co/</website>
+    <city>Oakland</city>
+    <state>CA</state>
+    <CompanyLogo source="https://mynd-static-assets.s3.amazonaws.com/document-images/leasing/mynd-logo.svg"/>
+  </Company>
+  <Listing id="10qg0q94u5hb68ou" type="RENTAL" companyId="mynd" propertyType="HOUSE">
+    <street hide="false">4732 W Dill Ave</street>
+    <city>Coolidge</city>
+    <state>AZ</state>
+    <zip>85128-8291</zip>
+    <country>US</country>
+    <latitude>32.957253</latitude>
+    <longitude>-111.600471</longitude>
+    <lastUpdated>2025-07-29T11:15:12.828Z</lastUpdated>
+    <contactName>Mynd Property Management</contactName>
+    <contactEmail>leasing@mynd.co</contactEmail>
+    <contactPhone>833-367-6963</contactPhone>
+    <contactTimes><![CDATA[Monday: 8:00 am to 5:00 pm PST
+Tuesday: 9:00 am to 5:00 pm PST
+Wednesday: 9:00 am to 5:00 pm PST
+Thursday: 9:00 am to 5:00 pm PST
+Friday: 9:00 am to 5:00 pm PST]]></contactTimes>
+    <contactMethodPreference>Email</contactMethodPreference>
+    <previewMessage><![CDATA[ 4732 W Dill Ave]]></previewMessage>
+    <description><![CDATA[Step into comfort and style at 4732 W Dill Ave in the Martin Valley community. This spacious two-story home offers 5 bedrooms and 2.5 bathrooms across 2,204 square feet of thoughtfully designed living space. The open-concept layout features a bright living room, dedicated dining area, and a modern kitchen equipped with a full suite of appliances, generous cabinet space, and a walk-in pantry. Downstairs includes a private bedroom with a nearby half bath and walk-in closet—perfect for guests or a home office. Upstairs, you’ll find four additional bedrooms including a spacious primary suite with a walk-in closet and en suite bathroom. An upstairs laundry room with hookups adds everyday convenience. Enjoy a fully fenced backyard ideal for outdoor lounging or entertaining, along with an attached 2-car garage and additional driveway parking. Located near N Curry Rd and W Woodruff Rd, with easy access to I-10, and just minutes from local shops and restaurants.
+
+_____
+
+RENT WITH MYND
+-Fast Online Application (valid for 30 days)
+-Mobile App to Pay Rent and Track Services
+-Affordable Renter's Insurance
+
+Lease term: 12 months
+
+ONE-TIME FEES
+Non-refundable $59.00 Application Fee Per Adult
+One Time Move In Fee $199
+
+REQUIRED MONTHLY CHARGES*
+$1895.00: Base Rent
+$39.95/month: Residents Benefits Package provides residents with on-demand basic pest control, as-needed HVAC air filter delivery, Identity Theft Protection, and access to an exciting rewards program
+
+*Estimated required monthly charges do not include the required costs of utilities or rental insurance, conditional fees including, but not limited to, pet fees, or optional fees. See our website for more information: https://leasing-faqs.stonly.com/kb/en
+
+CONDITIONAL FEES
+This is a pet-friendly property! 3 Pets Max; Pet Move-In Fee $199 per pet; Pet Rent per pet varies based on Paw Score. Breed restrictions apply. All pets must be registered at www.petscreening.com Please visit our website for details
+
+
+You can reach us directly at leasing@mynd.co, or call 480-428-2008, or text 602-887-5836 for more information.
+
+Mynd Property Management
+Equal Opportunity Housing
+License # CO689807000; CO689807001
+www.mynd.co
+
+Mynd Property Management does not advertise on Craigslist or Facebook Marketplace. We will never ask you to wire money or pay with gift cards. Please report any fraudulent ads to your Leasing Associate. Federal Occupancy Guidelines: 2 per bedroom + 1 additional occupant; 2 per studio. Please contact us for move-in policy and available move-in date.
+
+]]></description>
+    <terms>12 months</terms>
+    <website>https://mynd.rhenti.com/#/property/6837bfe29e7726713e852883?channel=apartments</website>
+    <virtualTourUrl>https://www.insidemaps.com/app/walkthrough-v2/?projectId=UFwIywVPiK&amp;env=production</virtualTourUrl>
+    <isFurnished>false</isFurnished>
+    <numUnits>1</numUnits>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Dishwasher</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>GarbageDisposal</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Microwave</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>RangeOven</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Refrigerator</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>CeilingFan</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Air Conditioner</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Garage</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Private Patio</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_TYPE">
+      <tag>GarageAttached</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES">
+      <tag>1</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES_COVERED">
+      <tag>0</tag>
+    </ListingTag>
+    <ListingTag type="FLOOR_COVERING">
+      <tag>FLOOR_COVERING_CARPET</tag>
+    </ListingTag>
+    <ListingTag type="FLOOR_COVERING">
+      <tag>FLOOR_COVERING_TILE</tag>
+    </ListingTag>
+    <ListingTag type="HEATING_FUEL">
+      <tag>None</tag>
+    </ListingTag>
+    <ListingTag type="COOLING_SYSTEM">
+      <tag>Central</tag>
+    </ListingTag>
+    <ListingTag type="LAUNDRY">
+      <tag>hookups</tag>
+    </ListingTag>
+    <ListingTag type="APPLICATION_FEE">
+      <tag>$59.00</tag>
+    </ListingTag>
+    <ListingTag type="AVAILABILITY_DATE">
+      <tag>2025-07-14</tag>
+    </ListingTag>
+    <ListingTag type="DOGS_ALLOWED">
+      <tag>false</tag>
+    </ListingTag>
+    <ListingTag type="SMALL_DOGS_ALLOWED">
+      <tag>false</tag>
+    </ListingTag>
+    <ListingTag type="LARGE_DOGS_ALLOWED">
+      <tag>false</tag>
+    </ListingTag>
+    <ListingTag type="CATS_ALLOWED">
+      <tag>false</tag>
+    </ListingTag>
+    <ListingTag type="YEAR_BUILT">
+      <tag>2007</tag>
+    </ListingTag>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/t465oajdurqjhgp6.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/pc9j8255vchh3lsh.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/3m99092o7d7f2b0k.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/78kkjhm9j4hmlha4.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/ufcbk9opto5r7ts6.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/jmus1j8b3l7mfj7j.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/v2umsrou8jbopta9.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/krh1vqleuail8un7.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/lvssrpqhbh5bdjfs.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/3c9hj6op9fshdl9q.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/m1gstd6eq2204aa1.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/ojlhonhaucoqlh66.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/uinpcl2e5lc524el.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/opne0r7hauej3qrl.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/ggj7jgt3j6j0fe2n.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/4qtedkjbb5lr2v7a.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/j9lmi7feicnt1uod.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/rngjb9dpkr7ja0io.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/lqpmmb03m745a4nt.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/f8hhq3aem5shghju.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/r9l5sllsvqj09bn.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/rimjpibp8nprji41.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/2b7a0rtjh8jpej4i.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/sd4h3jv941d8dbgk.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/uc0b5dr2gglbjfm1.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/gii30sds7m0e1vh5.png"/>
+    <price>1895.00</price>
+    <pricingFrequency>MONTH</pricingFrequency>
+    <numBedrooms>5</numBedrooms>
+    <numFullBaths>2</numFullBaths>
+    <numHalfBaths>1</numHalfBaths>
+    <squareFeet>2204.0</squareFeet>
+    <dateAvailable>2025-07-14</dateAvailable>
+    <providerType>propertyManager</providerType>
+  </Listing>
+  <Listing id="11jheo3ki88v7ne7" type="RENTAL" companyId="mynd" propertyType="HOUSE">
+    <street hide="false">2203 Tiger Flowers Dr NW</street>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <zip>30314</zip>
+    <country>US</country>
+    <latitude>33.761173</latitude>
+    <longitude>-84.45974</longitude>
+    <lastUpdated>2025-07-29T11:15:12.828Z</lastUpdated>
+    <contactName>Mynd Property Management</contactName>
+    <contactEmail>leasing@mynd.co</contactEmail>
+    <contactPhone>833-367-6963</contactPhone>
+    <contactTimes><![CDATA[Monday: 8:00 am to 5:00 pm PST
+Tuesday: 9:00 am to 5:00 pm PST
+Wednesday: 9:00 am to 5:00 pm PST
+Thursday: 9:00 am to 5:00 pm PST
+Friday: 9:00 am to 5:00 pm PST]]></contactTimes>
+    <contactMethodPreference>Email</contactMethodPreference>
+    <previewMessage><![CDATA[ 2203 Tiger Flowers Dr NW]]></previewMessage>
+    <description><![CDATA[Updated photography will be forthcoming. Please call with questions.
+
+Welcome to 2203 Tiger Flowers Dr NW, a charming 4-bedroom, 2-bath residence featuring 1500 square feet of living area. You’re sure to appreciate this contemporary layout that includes a roomy living room, dining area, and plenty of natural light. The kitchen is well-appointed with beautiful countertops, wooden cabinetry, and modern appliances. The primary bedroom comes with a closet and a private bathroom. Step outside to the backyard, a perfect spot to unwind and enjoy the fresh air. There’s driveway parking available, and washer and dryer hookups are provided. This home is conveniently located near shopping and dining options with quick access to I-20. Don’t miss out—apply today to make this wonderful property your new home!
+_____
+
+RENT WITH MYND
+-Fast Online Application (valid for 30 days)
+-Mobile App to Pay Rent and Track Services
+-Affordable Renter's Insurance
+
+Lease term: 12 months
+
+ONE-TIME FEES
+Non-refundable $59.00 Application Fee Per Adult
+One Time Move In Fee $199
+
+REQUIRED MONTHLY CHARGES*
+$1745.00: Base Rent
+$39.95/month: Residents Benefits Package provides residents with on-demand basic pest control, as-needed HVAC air filter delivery, Identity Theft Protection, and access to an exciting rewards program
+
+*Estimated required monthly charges do not include the required costs of utilities or rental insurance, conditional fees including, but not limited to, pet fees, or optional fees. See our website for more information: https://leasing-faqs.stonly.com/kb/en
+
+CONDITIONAL FEES
+This is a pet-friendly property! 3 Pets Max; Pet Move-In Fee $199 per pet; Pet Rent per pet varies based on Paw Score. Breed restrictions apply. All pets must be registered at www.petscreening.com Please visit our website for details
+
+
+You can reach us directly at leasing@mynd.co, or call 404-476-6179, or text 470-306-0496 for more information.
+
+Mynd Property Management
+Equal Opportunity Housing
+License # 77919
+www.mynd.co
+
+Mynd Property Management does not advertise on Craigslist or Facebook Marketplace. We will never ask you to wire money or pay with gift cards. Please report any fraudulent ads to your Leasing Associate. Federal Occupancy Guidelines: 2 per bedroom + 1 additional occupant; 2 per studio. Please contact us for move-in policy and available move-in date.
+
+]]></description>
+    <terms>12 months</terms>
+    <website>https://mynd.rhenti.com/#/property/687fd1c39f3bd6fb674e9568?channel=apartments</website>
+    <isFurnished>false</isFurnished>
+    <numUnits>1</numUnits>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>RangeOven</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Refrigerator</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>CeilingFan</tag>
+    </ListingTag>
+    <ListingTag type="RENT_INCLUDES">
+      <tag>Sewage</tag>
+    </ListingTag>
+    <ListingTag type="RENT_INCLUDES">
+      <tag>Garbage</tag>
+    </ListingTag>
+    <ListingTag type="PROPERTY_AMENITY">
+      <tag>Porch</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_TYPE">
+      <tag>OffStreet</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES">
+      <tag>2</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES_COVERED">
+      <tag>0</tag>
+    </ListingTag>
+    <ListingTag type="FLOOR_COVERING">
+      <tag>FLOOR_COVERING_HARDWOOD</tag>
+    </ListingTag>
+    <ListingTag type="FLOOR_COVERING">
+      <tag>FLOOR_COVERING_TILE</tag>
+    </ListingTag>
+    <ListingTag type="HEATING_FUEL">
+      <tag>Gas</tag>
+    </ListingTag>
+    <ListingTag type="LAUNDRY">
+      <tag>hookups</tag>
+    </ListingTag>
+    <ListingTag type="APPLICATION_FEE">
+      <tag>$59.00</tag>
+    </ListingTag>
+    <ListingTag type="AVAILABILITY_DATE">
+      <tag>2025-08-08</tag>
+    </ListingTag>
+    <ListingTag type="DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="SMALL_DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="LARGE_DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="CATS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="YEAR_BUILT">
+      <tag>1956</tag>
+    </ListingTag>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/420vass4uav27e90.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/5fveuosms0tj1f6g.png"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/psrcr542n23pinha.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/bs4ciqi33j4bhv7l.png"/>
+    <price>1745.00</price>
+    <pricingFrequency>MONTH</pricingFrequency>
+    <numBedrooms>4</numBedrooms>
+    <numFullBaths>2</numFullBaths>
+    <numHalfBaths>0</numHalfBaths>
+    <squareFeet>1500.0</squareFeet>
+    <dateAvailable>2025-08-08</dateAvailable>
+    <providerType>propertyManager</providerType>
+  </Listing>
+  <Listing id="11r24mtk1m1hkaju" type="RENTAL" companyId="mynd" propertyType="HOUSE">
+    <street hide="false">6481 Piccadilly Ln</street>
+    <city>Orlando</city>
+    <state>FL</state>
+    <zip>32835</zip>
+    <country>US</country>
+    <latitude>28.530996</latitude>
+    <longitude>-81.472839</longitude>
+    <lastUpdated>2025-07-29T11:15:12.828Z</lastUpdated>
+    <contactName>Mynd Property Management</contactName>
+    <contactEmail>leasing@mynd.co</contactEmail>
+    <contactPhone>833-367-6963</contactPhone>
+    <contactTimes><![CDATA[Monday: 8:00 am to 5:00 pm PST
+Tuesday: 9:00 am to 5:00 pm PST
+Wednesday: 9:00 am to 5:00 pm PST
+Thursday: 9:00 am to 5:00 pm PST
+Friday: 9:00 am to 5:00 pm PST]]></contactTimes>
+    <contactMethodPreference>Email</contactMethodPreference>
+    <previewMessage><![CDATA[6481 Piccadilly Ln]]></previewMessage>
+    <description><![CDATA[Welcome to 6481 Piccadilly Lane, a charming 1,508 sq ft smart-home nestled in the family-friendly Summerfield Park community of Orlando, FL 32829. This inviting one-story home features three spacious bedrooms, two full bathrooms, and a two-car garage. The freshly updated, all-white kitchen—with dishwasher hookups, refrigerator, electric range/oven, microwave, and a bright breakfast nook—flows seamlessly into the open dining and living areas. Modern convenience is built in with smart-home technology including a smart lock, smart thermostat, smart hub, and motion sensor, plus a dedicated laundry room ready for your washer and dryer. Outside, a private backyard offers a peaceful space for relaxation or play. Located just off S Hiawassee Rd and FL 435. Don’t miss your chance to make this wonderful property your new home—apply today!
+
+_____
+
+RENT WITH MYND
+-Fast Online Application (valid for 30 days)
+-Mobile App to Pay Rent and Track Services
+-Affordable Renter's Insurance
+-Most internet providers charge $80-$120/month for gig speed internet.
+Through our partner Second Nature, we’ve negotiated a lower rate of $67.49/month for gig speed internet, which comes with the property and is available upon move in.
+Get more details when you apply.
+
+Lease term: 12 months
+
+ONE-TIME FEES
+Non-refundable $59.00 Application Fee Per Adult
+One Time Move In Fee $199
+
+REQUIRED MONTHLY CHARGES*
+$2425.00: Base Rent
+$54.95/month: Residents Benefits Package provides residents with on-demand basic pest control, as-needed HVAC air filter delivery, smart home features, Identity Theft Protection, and access to an exciting rewards program.
+
+*Estimated required monthly charges do not include the required costs of utilities or rental insurance, conditional fees including, but not limited to, pet fees, or optional fees. See our website for more information: https://leasing-faqs.stonly.com/kb/en
+
+CONDITIONAL FEES
+This is a pet-friendly property! 3 Pets Max; Pet Move-In Fee $199 per pet; Pet Rent per pet varies based on Paw Score. Breed restrictions apply. All pets must be registered at www.petscreening.com Please visit our website for details
+
+
+You can reach us directly at leasing@mynd.co, or call 407-305-7305, or text 321-609-5603 for more information.
+
+Mynd Property Management
+Equal Opportunity Housing
+License # CQ1060782
+www.mynd.co
+
+Mynd Property Management does not advertise on Craigslist or Facebook Marketplace. We will never ask you to wire money or pay with gift cards. Please report any fraudulent ads to your Leasing Associate. Federal Occupancy Guidelines: 2 per bedroom + 1 additional occupant; 2 per studio. Please contact us for move-in policy and available move-in date.
+
+]]></description>
+    <terms>12 months</terms>
+    <website>https://mynd.rhenti.com/#/property/68791e2e85b1fca71a4fd7d8?channel=apartments</website>
+    <isFurnished>false</isFurnished>
+    <numUnits>1</numUnits>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Dishwasher</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Microwave</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>RangeOven</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Refrigerator</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>CeilingFan</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Air Conditioner</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Garage</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Private Patio</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_TYPE">
+      <tag>None</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES">
+      <tag>0</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES_COVERED">
+      <tag>0</tag>
+    </ListingTag>
+    <ListingTag type="FLOOR_COVERING">
+      <tag>FLOOR_COVERING_LAMINATE</tag>
+    </ListingTag>
+    <ListingTag type="FLOOR_COVERING">
+      <tag>FLOOR_COVERING_TILE</tag>
+    </ListingTag>
+    <ListingTag type="HEATING_FUEL">
+      <tag>None</tag>
+    </ListingTag>
+    <ListingTag type="COOLING_SYSTEM">
+      <tag>Central</tag>
+    </ListingTag>
+    <ListingTag type="LAUNDRY">
+      <tag>hookups</tag>
+    </ListingTag>
+    <ListingTag type="APPLICATION_FEE">
+      <tag>$59.00</tag>
+    </ListingTag>
+    <ListingTag type="AVAILABILITY_DATE">
+      <tag>2025-09-03</tag>
+    </ListingTag>
+    <ListingTag type="DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="SMALL_DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="LARGE_DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="CATS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="YEAR_BUILT">
+      <tag>1990</tag>
+    </ListingTag>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/aic11febivqiketn.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/i5c36daddm0pajl5.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/if5a97j0m15p188c.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/umo7s04jmojhma06.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/9vbtio6hs50lh5il.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/u19d1q85geilsnbu.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/4jjeho76qaonn0v2.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/l0a4a3hlbrr844ts.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/7uapo3p8s3cb53v2.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/krr67bk92nv2bepe.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/rpppp7i39bbc2l7f.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/9b8953bm7p9i3bgk.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/uqd2b9umohrqdq1m.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/lobctto65pvcegvt.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/9busap72hfcq7jfh.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/h7l8rfn00fdtn0mb.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/5fhdp2onq0ne64f3.png"/>
+    <price>2425.00</price>
+    <pricingFrequency>MONTH</pricingFrequency>
+    <numBedrooms>3</numBedrooms>
+    <numFullBaths>2</numFullBaths>
+    <numHalfBaths>0</numHalfBaths>
+    <squareFeet>1508.0</squareFeet>
+    <dateAvailable>2025-09-03</dateAvailable>
+    <providerType>propertyManager</providerType>
+  </Listing>
+  <Listing id="11vum3h8nl9gbbt0" type="RENTAL" companyId="mynd" propertyType="HOUSE">
+    <street hide="false">1039 Providence Blvd</street>
+    <city>Providence Village</city>
+    <state>TX</state>
+    <zip>76227</zip>
+    <country>US</country>
+    <latitude>33.2267</latitude>
+    <longitude>-96.959663</longitude>
+    <lastUpdated>2025-07-29T11:15:12.828Z</lastUpdated>
+    <contactName>Mynd Property Management</contactName>
+    <contactEmail>leasing@mynd.co</contactEmail>
+    <contactPhone>833-367-6963</contactPhone>
+    <contactTimes><![CDATA[Monday: 8:00 am to 5:00 pm PST
+Tuesday: 9:00 am to 5:00 pm PST
+Wednesday: 9:00 am to 5:00 pm PST
+Thursday: 9:00 am to 5:00 pm PST
+Friday: 9:00 am to 5:00 pm PST]]></contactTimes>
+    <contactMethodPreference>Email</contactMethodPreference>
+    <previewMessage><![CDATA[ 1039 Providence Blvd]]></previewMessage>
+    <description><![CDATA[Nestled at 1039 Providence Blvd., this lovely 3-bedroom, 2-bathroom property boasts 1995 square feet of comfortable living space.  The living area is thoughtfully designed with plenty of windows that fill the space with natural light. The well-equipped kitchen boasts ample storage space and comes with a full suite of updated appliances, making cooking a breeze. The primary bedroom features an attached bathroom with dual sink, a separate tub and shower, and a convenient walk-in closet. You'll also appreciate the designated laundry room with washer and dryer hookups included. Step outside to find a nicely spaced backyard with a covered patio that provides the perfect spot for relaxation and entertainment; attached 2-car garage. Located just off Main St, near plenty of restaurants, shopping and schools, with easy access to Hwy 380. Call us today!
+
+_____
+RENT WITH MYND
+-Fast Online Application (valid for 30 days)
+-Mobile App to Pay Rent and Track Services
+-Affordable Renter's Insurance
+-Most internet providers charge $80-$120/month for gig speed internet. Through our partner Second Nature, we’ve negotiated a lower rate of $67.49/month for gig speed internet, which comes with the property and is available upon move in. Get more details when you apply.
+
+Lease term: 12 months
+
+ONE-TIME FEES
+Non-refundable $59.00 Application Fee Per Adult
+One Time Move In Fee $199 + one-time utility set up fee
+Amenity access card Fee of $30 per card
+
+REQUIRED MONTHLY CHARGES*
+$2145.00: Base Rent
+$39.95/month: Residents Benefits Package provides residents with on-demand basic pest control, as-needed HVAC air filter delivery, Identity Theft Protection, and access to an exciting rewards program
+$[UTILITY MANAGEMENT FEE]/month: Utility Management Fee
+$75/month Landscaping Fee
+
+*Estimated required monthly charges do not include the required costs of utilities or rental insurance, conditional fees including, but not limited to, pet fees, or optional fees. See our website for more information: https://leasing-faqs.stonly.com/kb/en
+
+CONDITIONAL FEES
+This is a pet-friendly property! 3 Pets Max; Pet Move-In Fee $199 per pet; Pet Rent per pet varies based on Paw Score. Breed restrictions apply. All pets must be registered at www.petscreening.com Please visit our website for details
+
+You can reach us directly at leasing@mynd.co, or call 512-229-9099, or text 737-315-3750 for more information.
+
+Mynd Property Management
+Equal Opportunity Housing
+License # 9009162
+www.mynd.co
+
+Mynd Property Management does not advertise on Craigslist or Facebook Marketplace. We will never ask you to wire money or pay with gift cards. Please report any fraudulent ads to your Leasing Associate. Federal Occupancy Guidelines: 2 per bedroom + 1 additional occupant; 2 per studio. Please contact us for move-in policy and available move-in date.
+
+]]></description>
+    <terms>12 months</terms>
+    <website>https://mynd.rhenti.com/#/property/67abbad5bd976c8c32b8b736?channel=apartments</website>
+    <virtualTourUrl>https://www.insidemaps.com/app/walkthrough-v2/?projectId=8NHPDEsRjx&amp;env=production</virtualTourUrl>
+    <isFurnished>false</isFurnished>
+    <numUnits>1</numUnits>
+    <ListingTag type="PROPERTY_AMENITY">
+      <tag>FitnessCenter</tag>
+    </ListingTag>
+    <ListingTag type="PROPERTY_AMENITY">
+      <tag>Pool</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Dishwasher</tag>
+    </ListingTag>
+    <ListingTag type="MODEL_AMENITY">
+      <tag>Refrigerator</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_TYPE">
+      <tag>None</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES">
+      <tag>0</tag>
+    </ListingTag>
+    <ListingTag type="PARKING_SPACES_COVERED">
+      <tag>0</tag>
+    </ListingTag>
+    <ListingTag type="HEATING_FUEL">
+      <tag>None</tag>
+    </ListingTag>
+    <ListingTag type="LAUNDRY">
+      <tag>hookups</tag>
+    </ListingTag>
+    <ListingTag type="APPLICATION_FEE">
+      <tag>$59.00</tag>
+    </ListingTag>
+    <ListingTag type="AVAILABILITY_DATE">
+      <tag>2025-06-10</tag>
+    </ListingTag>
+    <ListingTag type="DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="SMALL_DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="LARGE_DOGS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="CATS_ALLOWED">
+      <tag>true</tag>
+    </ListingTag>
+    <ListingTag type="YEAR_BUILT">
+      <tag>2003</tag>
+    </ListingTag>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/msan1bg6hsa55v5u.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/2ggosdqenprd0nnu.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/vfavu97qu7d5nqmr.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/cah67lijr5mjs4s5.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/a0fg4e4l2cqdimpr.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/p0a32o7g1k796ra3.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/6009bhjcg0qf0cv2.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/sue0r046ut6ovmf5.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/csvruh7m0cscmfo5.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/5tr4d13cmeui9b3r.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/tq8ibkabv08lvuvd.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/2babvkq31fsvoase.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/i521m5j6h4qj21gl.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/ue4vuncp0q808j5o.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/1brttjk72ftpcd1b.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/ok55ec6lf5aaqalp.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/hdt0rnjq4o0t535r.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/cd76pjdrr1em8vuf.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/1cc0r5ik8jnkj5t7.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/2pdl96u4fbpfs5v2.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/24l9nnp9bp4jfmp0.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/45nogkfegf49n6t1.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/l356rt4gvofia3kp.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/3hphck0nbdjl230i.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/k51shootn7tnfhfd.jpg"/>
+    <ListingPhoto source="https://files-public-prod-mynd.s3.us-west-2.amazonaws.com/property_photo/begam32jeldacl9e.png"/>
+    <price>2145.00</price>
+    <pricingFrequency>MONTH</pricingFrequency>
+    <numBedrooms>3</numBedrooms>
+    <numFullBaths>2</numFullBaths>
+    <numHalfBaths>0</numHalfBaths>
+    <squareFeet>1995.0</squareFeet>
+    <dateAvailable>2025-06-10</dateAvailable>
+    <providerType>propertyManager</providerType>
+  </Listing>
+ 
+</hotPadsItems>
